@@ -1,4 +1,3 @@
-data/externos/olist_*.csv
 .ipynb_checkpoints/
 __pycache__/
 .venv/
